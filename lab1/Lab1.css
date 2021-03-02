@@ -78,3 +78,7 @@ hr {
 select {
     width: 1000px;
 }
+#oblic2 {
+    font-style: italic;
+    color: gray;
+}
