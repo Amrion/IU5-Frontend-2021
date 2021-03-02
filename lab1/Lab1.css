@@ -1,0 +1,84 @@
+button:hover {
+    background-color: red;
+}
+p::first-letter {
+    color: red;
+    font-size: 110%
+}
+.hr1 {
+    margin-top: -20px;
+    border: 0;
+    height: 0;
+    border-bottom: 1px solid #909090;
+    clear: both;
+}
+.sign {
+    float: right;
+    border: 1px solid #909090;
+    padding: 7px;
+    margin: -25px 0px 10px 50px;
+    background: #f0f0f0;
+}
+.soder {
+    width: 200px;
+    border: 1px solid #909090;
+    padding: 7px;
+    margin: 0px 0px 10px 50px;
+    background: #f0f0f0;
+}
+.bord {
+    width: 100px;
+    border: 1px solid #909090;
+    padding: 7px;
+    margin: 0px 0px 10px 50px;
+    background: #f0f0f0;
+}
+td {
+    vertical-align: middle;
+    padding: 5px;
+    font-size: 14px;
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #909090;
+    border-right: 1px solid #909090;;
+    border-left: 1px solid #909090;
+    background-color: #f0f0f0;
+}
+.table {
+    margin-left: 450px;
+}
+.reg {
+    margin-left: 350px;
+}
+.container {
+    padding: 16px;
+}
+input[type=text], input[type=password] {
+    width: 1000px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f0f0f0;
+}
+hr {
+    border: 1px solid #909090;
+    margin-bottom: 25px;
+}
+.registerbtn {
+    background-color: #909090;
+    color: white;
+    padding: 16px 20px;
+    margin-top: 8px;
+    width: 1000px;
+    border: none;
+}
+.signin {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+select {
+    width: 1000px;
+}
+#oblic2 {
+    font-style: italic;
+    color: gray;
+}
